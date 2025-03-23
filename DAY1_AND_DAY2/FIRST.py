@@ -1,0 +1,13 @@
+print("helo")
+print(4+4)
+print(4-4)
+print(4*4)
+print(2^3)
+print(4&4)
+print(44)
+print(4**4)
+print(2**3 )
+s=4*4
+print(s)
+a=(2*4/7%678-857)
+print(a)
